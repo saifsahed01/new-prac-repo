@@ -16,3 +16,12 @@ P{
   text-align: center;
 }
 
+.big{
+  font-size: 80px;
+}
+
+h3{
+  font-size: 30px;
+  text-align: center;
+  padding: 20px 0;
+}
